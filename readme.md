@@ -4,7 +4,7 @@
 
 Контекст от ведущего:
 
-* [Сибирское сообщество техписателей]([https://www.meetup.com/Write-the-Docs-Siberia](https://www.meetup.com/Write-the-Docs-Siberia/) и конференция [docfactor.ru](http://docfactor.ru))
+* [Сибирское сообщество техписателей]([https://www.meetup.com/Write-the-Docs-Siberia](https://www.meetup.com/Write-the-Docs-Siberia/)) и конференция [docfactor.ru](http://docfactor.ru))
 * [Русскоязычный stackoverflow.com](https://ru.stackoverflow.com/)
 
 ## Типичные проблемы внутренней атмосферы
