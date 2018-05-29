@@ -1,8 +1,10 @@
 # Проблемы развития IT-сообществ и их внутренней атмосферы
 
-Контекст от ведущего (Николай Волынкин):
+Это конспект с митапа про сообщества на [РИТ++ 2018](http://ritfest.ru/moscow/2018). Провели и записали [Николай Волынкин](http://nick.volynkin.gitlab.io) и [Семён Факторович](http://documentat.io).
 
-* Сибирское сообщество техписателей ([https://www.meetup.com/Write-the-Docs-Siberia](https://www.meetup.com/Write-the-Docs-Siberia/) и конференция [docfactor.ru](http://docfactor.ru))
+Контекст от ведущего:
+
+* [Сибирское сообщество техписателей]([https://www.meetup.com/Write-the-Docs-Siberia](https://www.meetup.com/Write-the-Docs-Siberia/) и конференция [docfactor.ru](http://docfactor.ru))
 * [Русскоязычный stackoverflow.com](https://ru.stackoverflow.com/)
 
 ## Типичные проблемы внутренней атмосферы
